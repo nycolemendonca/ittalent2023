@@ -1,6 +1,7 @@
-package main
+package main // Gera o arquivo binário
 
-import "fmt"
+// fmt: Implementa entradas e saídas formatadas
+import "fmt" // Possui a função Println
 
 func main() {
 	name  := "Go Developers"
